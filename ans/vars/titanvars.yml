@@ -14,4 +14,3 @@ prefix_list:
          -  num: "30"
             action: "act-30"
             rule: "rule-30"
-
