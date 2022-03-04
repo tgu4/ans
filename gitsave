@@ -4,6 +4,6 @@ git status
 git add /home/student/mycode/*
 echo "input the work description"
 read varname
-git commit -m "$varname"
+git commit -a -m "$varname"
 git push origin
 cd ~/
